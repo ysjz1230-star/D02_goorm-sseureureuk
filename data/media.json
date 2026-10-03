@@ -1,0 +1,237 @@
+{
+ "version": 1,
+ "groups": {
+  "A": {
+   "label": "앱 기본 파일",
+   "desc": "호흡 운동에 필요한 화면·배경 이미지·안내음. 처음 열 때 자동 저장돼요.",
+   "files": [
+    {
+     "path": "/index.html",
+     "bytes": 8578
+    },
+    {
+     "path": "/styles.css",
+     "bytes": 22746
+    },
+    {
+     "path": "/app.js",
+     "bytes": 2408
+    },
+    {
+     "path": "/manifest.webmanifest",
+     "bytes": 699
+    },
+    {
+     "path": "/js/audio.js",
+     "bytes": 2329
+    },
+    {
+     "path": "/js/breathing.js",
+     "bytes": 11410
+    },
+    {
+     "path": "/js/device.js",
+     "bytes": 1094
+    },
+    {
+     "path": "/js/home.js",
+     "bytes": 4151
+    },
+    {
+     "path": "/js/meditation.js",
+     "bytes": 15009
+    },
+    {
+     "path": "/js/offline-view.js",
+     "bytes": 8526
+    },
+    {
+     "path": "/js/offline.js",
+     "bytes": 3588
+    },
+    {
+     "path": "/js/progress.js",
+     "bytes": 4420
+    },
+    {
+     "path": "/js/storage.js",
+     "bytes": 1754
+    },
+    {
+     "path": "/js/ui.js",
+     "bytes": 1459
+    },
+    {
+     "path": "/data/breathing-presets.json",
+     "bytes": 715
+    },
+    {
+     "path": "/data/media.json",
+     "bytes": 4704
+    },
+    {
+     "path": "/data/sessions.json",
+     "bytes": 1605
+    },
+    {
+     "path": "/assets/fonts/PretendardVariable.woff2",
+     "bytes": 2057688
+    },
+    {
+     "path": "/assets/icons/icon-192.png",
+     "bytes": 24679
+    },
+    {
+     "path": "/assets/icons/icon-512.png",
+     "bytes": 77205
+    },
+    {
+     "path": "/assets/icons/icon-maskable-512.png",
+     "bytes": 61444
+    },
+    {
+     "path": "/assets/images/bg-dusk.webp",
+     "bytes": 17474
+    },
+    {
+     "path": "/assets/images/bg-forest.webp",
+     "bytes": 14544
+    },
+    {
+     "path": "/assets/images/bg-mist.webp",
+     "bytes": 11274
+    },
+    {
+     "path": "/assets/images/bg-night.webp",
+     "bytes": 14158
+    },
+    {
+     "path": "/assets/images/bg-ocean.webp",
+     "bytes": 19564
+    },
+    {
+     "path": "/assets/audio/cues/exhale.mp3",
+     "bytes": 8611
+    },
+    {
+     "path": "/assets/audio/cues/hold.mp3",
+     "bytes": 5267
+    },
+    {
+     "path": "/assets/audio/cues/inhale.mp3",
+     "bytes": 7775
+    }
+   ]
+  },
+  "B1": {
+   "label": "배경 영상",
+   "desc": "호흡·명상 화면에 흐르는 5개의 느린 풍경 영상",
+   "files": [
+    {
+     "path": "/assets/video/bg-dusk.mp4",
+     "bytes": 83676
+    },
+    {
+     "path": "/assets/video/bg-forest.mp4",
+     "bytes": 157587
+    },
+    {
+     "path": "/assets/video/bg-mist.mp4",
+     "bytes": 73337
+    },
+    {
+     "path": "/assets/video/bg-night.mp4",
+     "bytes": 63989
+    },
+    {
+     "path": "/assets/video/bg-ocean.mp4",
+     "bytes": 117378
+    }
+   ]
+  },
+  "B2": {
+   "label": "배경 소리",
+   "desc": "빗소리·파도·숲의 밤 등 6개의 반복 재생 소리",
+   "files": [
+    {
+     "path": "/assets/audio/ambient/deep.mp3",
+     "bytes": 241206,
+     "label": "깊은 소리"
+    },
+    {
+     "path": "/assets/audio/ambient/fire.mp3",
+     "bytes": 241206,
+     "label": "모닥불"
+    },
+    {
+     "path": "/assets/audio/ambient/forest.mp3",
+     "bytes": 241206,
+     "label": "숲의 밤"
+    },
+    {
+     "path": "/assets/audio/ambient/ocean.mp3",
+     "bytes": 241206,
+     "label": "파도"
+    },
+    {
+     "path": "/assets/audio/ambient/rain.mp3",
+     "bytes": 241206,
+     "label": "빗소리"
+    },
+    {
+     "path": "/assets/audio/ambient/wind.mp3",
+     "bytes": 241206,
+     "label": "바람"
+    }
+   ]
+  },
+  "B3": {
+   "label": "명상 음성",
+   "desc": "가이드 명상 7개. 원하는 것만 골라 저장할 수 있어요.",
+   "files": [
+    {
+     "path": "/assets/audio/guides/s01.mp3",
+     "bytes": 1440539,
+     "label": "숨 알아차리기 · 3분",
+     "sessionId": "s01"
+    },
+    {
+     "path": "/assets/audio/guides/s02.mp3",
+     "bytes": 2400591,
+     "label": "어깨 힘 풀기 · 5분",
+     "sessionId": "s02"
+    },
+    {
+     "path": "/assets/audio/guides/s03.mp3",
+     "bytes": 2400591,
+     "label": "지금 여기에 닻 내리기 · 5분",
+     "sessionId": "s03"
+    },
+    {
+     "path": "/assets/audio/guides/s04.mp3",
+     "bytes": 1440539,
+     "label": "오늘의 고마움 세 가지 · 3분",
+     "sessionId": "s04"
+    },
+    {
+     "path": "/assets/audio/guides/s05.mp3",
+     "bytes": 2400591,
+     "label": "소리에 귀 열기 · 5분",
+     "sessionId": "s05"
+    },
+    {
+     "path": "/assets/audio/guides/s06.mp3",
+     "bytes": 4800513,
+     "label": "걱정 내려놓기 · 10분",
+     "sessionId": "s06"
+    },
+    {
+     "path": "/assets/audio/guides/s07.mp3",
+     "bytes": 4800513,
+     "label": "몸 훑으며 잠들기 · 10분",
+     "sessionId": "s07"
+    }
+   ]
+  }
+ }
+}

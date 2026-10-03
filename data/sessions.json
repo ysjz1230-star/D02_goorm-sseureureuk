@@ -1,0 +1,9 @@
+[
+  { "id": "s01", "title": "숨 알아차리기", "topic": "focus", "minutes": 3, "audio": "/assets/audio/guides/s01.mp3", "bgVideo": "/assets/video/bg-mist.mp4", "bgImage": "/assets/images/bg-mist.webp", "courseDay": 1 },
+  { "id": "s02", "title": "어깨 힘 풀기", "topic": "stress", "minutes": 5, "audio": "/assets/audio/guides/s02.mp3", "bgVideo": "/assets/video/bg-ocean.mp4", "bgImage": "/assets/images/bg-ocean.webp", "courseDay": 2 },
+  { "id": "s03", "title": "지금 여기에 닻 내리기", "topic": "anxiety", "minutes": 5, "audio": "/assets/audio/guides/s03.mp3", "bgVideo": "/assets/video/bg-forest.mp4", "bgImage": "/assets/images/bg-forest.webp", "courseDay": 3 },
+  { "id": "s04", "title": "오늘의 고마움 세 가지", "topic": "gratitude", "minutes": 3, "audio": "/assets/audio/guides/s04.mp3", "bgVideo": "/assets/video/bg-mist.mp4", "bgImage": "/assets/images/bg-mist.webp", "courseDay": 4 },
+  { "id": "s05", "title": "소리에 귀 열기", "topic": "focus", "minutes": 5, "audio": "/assets/audio/guides/s05.mp3", "bgVideo": "/assets/video/bg-mist.mp4", "bgImage": "/assets/images/bg-mist.webp", "courseDay": 5 },
+  { "id": "s06", "title": "걱정 내려놓기", "topic": "anxiety", "minutes": 10, "audio": "/assets/audio/guides/s06.mp3", "bgVideo": "/assets/video/bg-forest.mp4", "bgImage": "/assets/images/bg-forest.webp", "courseDay": 6 },
+  { "id": "s07", "title": "몸 훑으며 잠들기", "topic": "sleep", "minutes": 10, "audio": "/assets/audio/guides/s07.mp3", "bgVideo": "/assets/video/bg-night.mp4", "bgImage": "/assets/images/bg-night.webp", "courseDay": 7 }
+]

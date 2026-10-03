@@ -1,0 +1,6 @@
+[
+  { "id": "coherent", "name": "코히런트 호흡", "inhale": 5, "hold1": 0, "exhale": 5, "hold2": 0, "desc": "들숨과 날숨을 같은 길이로. 처음이라면 이 호흡부터.", "recommended": true },
+  { "id": "478", "name": "4-7-8 호흡", "inhale": 4, "hold1": 7, "exhale": 8, "hold2": 0, "desc": "긴 날숨으로 잠들기 전 몸을 가라앉혀요." },
+  { "id": "box", "name": "박스 호흡", "inhale": 4, "hold1": 4, "exhale": 4, "hold2": 4, "desc": "네모를 그리듯 일정하게. 집중이 필요할 때." },
+  { "id": "sos", "name": "SOS 진정 호흡", "inhale": 4, "hold1": 0, "exhale": 6, "hold2": 0, "desc": "갑자기 긴장될 때, 1분 동안 날숨을 길게.", "hidden": true }
+]
